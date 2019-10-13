@@ -1,0 +1,56 @@
+div	{
+	text-align: center;	
+}
+h1		{
+	font-family: 'PT Serif', serif;
+	color: rgb(1, 1, 1);
+	font-size: 60px;
+}
+h2		{
+	font-family: 'PT Serif', serif;
+	color: rgb(50, 50, 50);
+	font-size: 40px;
+}
+p		{
+	font-family: 'PT Serif';
+	color: rgb(50, 50, 50);
+	font-size: 20px;
+}
+a 		{
+	text-decoration: none;
+	color: black;
+}
+a:hover	{
+	color: red;
+}
+#image-circle {
+	width: 350px;
+	border-radius: 20%;
+	box-shadow: 0px 10px 30px black;
+}
+.list-inline {
+list-style:none;
+padding: 0px;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
